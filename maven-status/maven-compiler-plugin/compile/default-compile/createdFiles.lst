@@ -5,5 +5,4 @@ com\vincent\model\articleModel.class
 com\vincent\repository\articleRepository.class
 com\vincent\demo\CorsConfig.class
 com\vincent\controller\articleController.class
-com\vincent\demo\GlobalCorsConfig.class
 com\vincent\demo\SpringProject2026Application.class
